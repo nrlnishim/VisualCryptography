@@ -1,2 +1,2 @@
-# WhatToWear
-What2Wear Mobile App for Java Project
+# VisualCryptography
+Visual Cryptography System for Cryptography Project
